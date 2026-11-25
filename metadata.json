@@ -1,0 +1,6 @@
+{
+  "name": "Center of Gravity Gym",
+  "description": "Strength, conditioning, and personal training club at 46 C.P. & Berar Society, Karachi. Open Mon–Sat 6:00 AM – 11:00 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
